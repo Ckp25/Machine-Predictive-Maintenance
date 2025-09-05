@@ -229,7 +229,7 @@ c, loc, lam = weibull_min.fit(wear_fail, floc=0)
 **Fitted Parameters:**
 - Shape parameter (k): 16.04
 - Scale parameter (λ): 222.5 minutes
-![SHAP Analysis](https://github.com/Ckp25/Machine-Predictive-Maintenance/blob/main//weibull.png)
+![SHAP Analysis](https://github.com/Ckp25/Machine-Predictive-Maintenance/blob/main/images/weibull.png)
 
 
 **Statistical Validation:**
