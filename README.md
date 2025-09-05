@@ -209,8 +209,8 @@ c, loc, lam = weibull_min.fit(wear_fail, floc=0)
 **SHAP Feature Importance:**
 
 ![SHAP Analysis](https://github.com/Ckp25/Machine-Predictive-Maintenance/blob/main/images/hdf_global_fi.png)
-![SHAP Analysis](images\osf_global_fi.png)
-![SHAP Analysis](images\pwf_global_fi.png)
+![SHAP Analysis](https://github.com/Ckp25/Machine-Predictive-Maintenance/blob/main/images/osf_global_fi.png)
+![SHAP Analysis](https://github.com/Ckp25/Machine-Predictive-Maintenance/blob/main/images/pwf_global_fi.png)
 
 
 **Key Findings:**
@@ -219,9 +219,9 @@ c, loc, lam = weibull_min.fit(wear_fail, floc=0)
 3. **`heating_risk_scaled`** - Captures thermal-mechanical interactions
 4. **`mechanical_work`** - Relevant for long-term degradation
 
-![SHAP Analysis](images\hdf_waterfall.png)
-![SHAP Analysis](images\osf_waterfall.png)
-![SHAP Analysis](images\pwf_waterfall.png)
+![SHAP Analysis](https://github.com/Ckp25/Machine-Predictive-Maintenance/blob/main/images/hdf_waterfall.png)
+![SHAP Analysis](https://github.com/Ckp25/Machine-Predictive-Maintenance/blob/main/images/osf_waterfall.png)
+![SHAP Analysis](https://github.com/Ckp25/Machine-Predictive-Maintenance/blob/main/images/pwf_waterfall.png)
 *SHAP waterfall plot for individual prediction explanation*
 
 ### Tool Wear Failure: Weibull Analysis
@@ -229,7 +229,7 @@ c, loc, lam = weibull_min.fit(wear_fail, floc=0)
 **Fitted Parameters:**
 - Shape parameter (k): 16.04
 - Scale parameter (λ): 222.5 minutes
-![SHAP Analysis](images\weibull.png)
+![SHAP Analysis](https://github.com/Ckp25/Machine-Predictive-Maintenance/blob/main//weibull.png)
 
 
 **Statistical Validation:**
