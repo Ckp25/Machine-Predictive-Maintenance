@@ -208,7 +208,7 @@ c, loc, lam = weibull_min.fit(wear_fail, floc=0)
 
 **SHAP Feature Importance:**
 
-![SHAP Analysis](images\hdf_global_fi.png)
+![SHAP Analysis](https://github.com/Ckp25/Machine-Predictive-Maintenance/blob/main/images/hdf_global_fi.png)
 ![SHAP Analysis](images\osf_global_fi.png)
 ![SHAP Analysis](images\pwf_global_fi.png)
 
